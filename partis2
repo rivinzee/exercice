@@ -1,0 +1,8 @@
+	<h1>Vim</h1>
+	<p>Vim est un éditeur de texte extrêmement personnalisable, que ce soit par l'ajout de plgin, ou par la modification de son fichier de configuration.<p></br>
+	<p>Il possède trois modes:</p>
+	<ul>
+		<li>Le mode normal</li>
+		<li>Le mode commande</li>
+		<li>le mode édition</li>
+	</ul>	
